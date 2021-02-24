@@ -1,0 +1,35 @@
+.map {
+  font-family: 'Inter';
+  font-weight: 800;
+  .picker-link {
+    display: none! important;
+  }
+  .title {
+    margin: 0 0 20px;
+    font-size: 84px;
+    line-height: 101px;
+    text-align: center;
+  }
+
+  .subtitle {
+    font-size: 29px;
+    font-weight: 800;
+    line-height: 41px;
+    margin-bottom: 35px;
+  }
+  
+  @media (max-width: 540px) {
+    .title {
+      font-size: 55px;
+      line-height: 1.2;
+    }
+  }
+
+  .model {
+    height: 450px;
+  }
+
+  #windy #logo {
+    display: none;
+  }
+}

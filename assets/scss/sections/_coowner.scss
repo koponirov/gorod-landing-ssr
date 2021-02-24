@@ -1,0 +1,40 @@
+.coowner {
+  text-align: center;
+
+  .steps {
+    display: flex;
+    justify-content: space-between;
+
+    @media (max-width: 600px) {
+      flex-wrap: wrap;
+    }
+
+    .step {
+      margin-top: 20px;
+      flex: 0 1 33%;
+      padding: 15px;
+
+      @media (max-width: 600px) {
+        flex: 0 0 80%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+
+    img {
+      display: block;
+      height: 73px;
+      margin: 0 auto;
+    }
+
+    p {
+      margin: 42px 0 0;
+      font-size: 17px;
+      line-height: 21px;
+    }
+  }
+
+  .btn-blue {
+    margin: 80px auto 0;
+  }
+}

@@ -1,0 +1,234 @@
+.technologies {
+  margin-top: -200px;
+  .items {
+    display: flex;
+    justify-content: space-between;
+
+    @media (max-width: 883px) {
+      flex-wrap: wrap;
+    }
+
+    h5 {
+      margin: 0;
+      font-size: 13px;
+      line-height: 26px;
+      text-align: center;
+      color: #545769;
+    }
+
+    .innovation {
+      width: 361px;
+
+      @media (max-width: 883px) {
+        width: 100%;
+        .slider {
+          height: 400px;
+        }
+      }
+    
+      margin: 45px auto;
+
+      .slider {
+        height: 400px;
+
+        @media (max-width: 883px) {
+          height: 400px;
+        }
+  
+        .slide {
+          .wrapper {
+            height: 400px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+          }  
+        }
+
+        text-align: center;
+        img {
+          display: block;
+          max-width: 100%;
+          margin: 0 auto;
+        }
+
+        p {
+          margin: 0;
+          font-size: 17px;
+          line-height: 26px;
+        }
+      }
+
+      .slick-slide {
+        height: 400px;
+
+        @media (max-width: 883px) {
+          height: 400px;
+        }
+        
+        outline: 0;
+      }
+
+      .slider-controls {
+        width: 100%;
+      }
+    }
+
+    .video {
+      margin: 45px auto 0;
+      width: 284px;
+      margin: 0 auto;
+      position: relative;
+
+      h5 {
+        margin-top: 45px;
+        margin-bottom: 75px;
+      }
+
+      &:before,
+      &:after {
+        content: '';
+        position: absolute;
+        top: 130px;
+        height: 400px;
+        width: 100px;
+      }
+
+      &:before {
+        left: 0;
+        background-image: linear-gradient(to right, rgba(27, 26, 40, 1) 0%, rgba(27, 26, 40, 0) 100%);
+      }
+
+      &:after {
+        right: 0;
+        background-image: linear-gradient(to left, rgba(27, 26, 40, 1) 0%, rgba(27, 26, 40, 0) 100%);
+      }
+
+      .top-gradient,
+      .bottom-gradient {
+        content: '';
+        position: absolute;
+        left: 0;
+        height: 100px;
+        width: 100%;
+      }
+
+      .top-gradient {
+        top: 130px;
+        background-image: linear-gradient(to bottom, rgba(27, 26, 40, 1) 0%, rgba(27, 26, 40, 0) 100%);
+      }
+
+      .bottom-gradient {
+        bottom: 80px;
+        background-image: linear-gradient(to top, rgba(27, 26, 40, 1) 0%, rgba(27, 26, 40, 0) 100%);
+      }
+
+      video {
+        width: 100%;
+        object-fit: cover;
+      }
+    }
+
+    .vray {
+      width: 300px;
+      margin: 45px auto;
+      position: relative;
+
+      .sprite {
+        width: 298px;
+        height: 472px;
+        margin-top: 20px;
+        margin-left: 6px;
+        background-image: url('../img/technologies/sprite.jpg');
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        position: relative;
+
+        &:before,
+        &:after {
+          content: '';
+          position: absolute;
+          top: 0;
+          height: calc(100% - 7px);
+          width: 100px;
+        }
+
+        &:before {
+          left: 0;
+          background-image: linear-gradient(to right, rgba(27, 26, 40, 1) 0%, rgba(27, 26, 40, 0) 100%);
+        }
+
+        &:after {
+          right: 0;
+          background-image: linear-gradient(to left, rgba(27, 26, 40, 1) 0%, rgba(27, 26, 40, 0) 100%);
+        }
+      }
+
+      .help {
+        position: absolute;
+        opacity: 0;
+        pointer-events: none;
+        user-select: none;
+        transition: opacity 0.2s linear;
+
+        &--1 {
+          top: 125px;
+          left: 120px;
+        }
+
+        &--2 {
+          top: 235px;
+          left: 115px;
+        }
+
+        &--3 {
+          top: 280px;
+          left: 150px;
+        }
+
+        &--4 {
+          top: 385px;
+          left: 130px;
+        }
+
+        &--5 {
+          top: 462px;
+          left: 100px;
+        }
+
+        .circle {
+          width: 15px;
+          height: 15px;
+          border: 1px solid #fff;
+          border-radius: 50%;
+          &:hover {
+            background: #8c8f9e;
+          }
+        }
+
+        p {
+          position: absolute;
+          right: -15px;
+          bottom: calc(100% + 10px);
+          display: none;
+          width: 200px;
+          margin: 0;
+          padding: 7px 15px 11px;
+          font-size: 13px;
+          line-height: 1;
+          color: #fff;
+          background: #545769;
+          border-radius: 2px;
+        }
+
+        &:hover p {
+          display: block;
+        }
+      }
+
+      &.open .help {
+        pointer-events: auto;
+        opacity: 1;
+      }
+    }
+  }
+}

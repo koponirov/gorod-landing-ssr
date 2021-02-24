@@ -1,0 +1,98 @@
+.modal-patent {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  z-index: 10;
+  background-color: rgba(28, 27, 41, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &.hidden {
+    display: none;
+  }
+
+  .modal-patent-inner {
+    width: 682px;
+    background-color: #212644;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0 9px;
+    position: relative;
+    border-radius: 5px;
+
+    .patent-btn-close {
+      cursor: pointer;
+      position: absolute;
+      right: 8px;
+      top: 10px;
+      width: 20px;
+      height: 20px;
+      background-image: url('../img/author/btn-close.png');
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+
+    .flags-inner {
+      margin-top: 38px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      border-radius: 5px;
+
+      .flag-item {
+        display: flex;
+        flex-direction: column;
+        background-color: #2e355e;
+        padding: 5px;
+        justify-content: center;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        position: relative;
+        width: calc(20% - 30px*4/5);
+        font-size: 16px;
+        margin-left: 30px;
+
+        &:nth-child(5n+1) {
+          margin-left: 0;
+        }
+
+        &.approved {
+          &:before {
+            content: "";
+            position: absolute;
+            bottom: 48px;
+            right: 6px;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg,transparent 50%,#347dfe 0);
+          }
+
+          &:after {
+            content: "";
+            position: absolute;
+            right: 11px;
+            bottom: 51px;
+            width: 12px;
+            height: 15px;
+            background-image: url('../img/author/certificate-mark.png');
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            background-size: contain;
+          }
+        }
+
+        .flag-title {
+          text-align: center;
+          line-height: 38px;
+          margin-top: 5px;
+        }
+      }
+    }
+  }
+}

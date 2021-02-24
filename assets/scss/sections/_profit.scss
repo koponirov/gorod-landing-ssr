@@ -1,0 +1,73 @@
+.profit {
+  padding-bottom: 260px;
+  @media (max-width: 768px) {
+    padding-bottom: 0;
+  }
+
+  .container {
+    position: unset;
+  }
+  
+  .title {
+    max-width: 670px;
+    margin: 0 auto 54px;
+  }
+
+  img {
+    position: absolute;
+    width: 570px;
+    left: -200px;
+
+
+    max-width: 570px;
+    top: 158px;
+    z-index: 1;
+
+    @media (max-width: 1199px) {
+       left: unset;
+       right: 60%;
+       width: 56%;
+    }
+  }
+
+  .list {
+    margin-top: 114px;
+    padding-left: 45%;//440px;
+
+    li {
+      margin-bottom: 21px;
+      position: relative;
+      display: block;
+      font-size: 17px;
+      line-height: 21px;
+
+      &:before {
+        content: "";
+        position: absolute;
+        top: 11px;
+        right: calc(100% + 44px);
+        width: 50vw;
+        height: 1px;
+        background-color: #347dfe;
+      }
+
+      &:after {
+        content: "";
+        position: absolute;
+        top: 7px;
+        left: -44px;
+        width: 9px;
+        height: 9px;
+        background-color: #347dfe;
+        border-radius: 50%;
+      }
+    }
+
+    span {
+      display: block;
+      font-size: 19px;
+      font-weight: bold;
+      color: #347dfe;
+    }
+  }
+}

@@ -1,0 +1,183 @@
+@mixin line($value,$top,$left,$width) {
+  position: absolute;
+  border-bottom: 2px solid #FFFFFF;
+  transform: rotate($value);
+  top: $top;
+  left: $left;
+  width: $width;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400;
+  src: url('../fonts/Inter-Regular.woff2')  format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 500;
+  src: url('../fonts/Inter-Medium.woff2') format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 600;
+  src: url('../fonts/Inter-SemiBold.woff2') format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  src: url('../fonts/Inter-Bold.woff2') format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 800;
+  src: url('../fonts/Inter-ExtraBold.woff2') format("woff2");
+  font-display: swap;
+}
+
+//@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+*:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b1a28;
+  color: #fff;
+  margin: 0;
+  font-family: 'Inter';
+  font-size: 15px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-size-adjust: 100%;
+
+  &.no-scroll {
+    overflow: hidden;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+p {
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+section {
+  width: 100%;
+  min-width: 1200px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 150px;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.container {
+  width: calc(100% - 60px);
+  min-width: 1140px;
+  margin: 0 auto;
+  position: relative;
+
+  @media (min-width: 1200px) {
+    width: 1140px;
+    margin: 0 auto;
+
+  }
+  @media (max-width: 480px) {
+    width: calc(100% - 30px);
+    margin: 0 15px;
+  }
+}
+
+.title {
+  font-size: 47px;
+  line-height: 51px;
+  text-align: center;
+  margin-bottom: 54px;
+  font-weight: 800;
+}
+
+.subtitle {
+  margin: 0 auto;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  max-width: 840px;
+}
+
+@media (max-width: 540px) {
+  .title {
+    font-size: 28px;
+    line-height: 1.2;
+  }
+  .subtitle {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+
+  }
+}
+
+.level-image {
+  position: absolute;
+  top: -132px;
+}
+
+.level {
+  height: 100%;
+  position: relative;
+  opacity: 1;
+  transition: opacity 1s;
+}
+
+.youtube-video {
+  .wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+  }
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+
+}

@@ -1,0 +1,26 @@
+.news-skolkovo{
+  width: 100%;
+  height: 130px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../img/news/skolkovo-bg.jpg");
+  background-blend-mode: normal;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  padding: 0 1% 0 5%;
+  margin-top: 30px;
+  border-radius: 5px;
+
+  span {
+    color: white;
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 100%;
+    flex-grow: 1;
+  }
+
+  .skolkovo-logo{
+    height: 109px;
+    width: 153px;
+    background-image: url("../img/news/skolkvo-logo.jpg");
+  }
+}

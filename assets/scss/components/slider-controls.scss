@@ -1,0 +1,121 @@
+.slider-controls {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 50%;
+  transform: translate(0, -50%);
+
+  .slick-prev,
+  .slick-next {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    background: #25417c;
+    border: 1px solid #347dfe;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      display: none;
+      width: 35px;
+      height: 35px;
+      background: #347dfe;
+      border-radius: 50%;
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      transform: translate(-50%, -50%) rotate(-45deg);
+      width: 10px;
+      height: 10px;
+      border: solid #fff;
+    }
+
+    &:hover:before {
+      display: block;
+    }
+  }
+
+  .slick-prev:after {
+    left: 55%;
+    border-width: 2px 0 0 2px;
+  }
+  .slick-next:after {
+    left: 45%;
+    border-width: 0 2px 2px 0;
+  }
+}
+//
+//.hooper-pagination {
+//  .hooper-indicators {
+//    .hooper-indicator {
+//      display: block;
+//      width: 12px;
+//      height: 12px;
+//      padding: 0;
+//      font-size: 0;
+//      background: none;
+//      border: 1px solid #8c8f9e;
+//      border-radius: 50%;
+//      cursor: pointer;
+//      outline: none;
+//    }
+//    .hooper-indicator.is-active {
+//      background: #8c8f9e;
+//    }
+//  }
+//}
+
+
+
+.slick-dots {
+  height: 45px;
+  text-align: center;
+  li {
+    display: inline-block;
+    line-height: 45px;
+    vertical-align: text-top;
+    margin: 16px 3px 0;
+  }
+
+  li button {
+    display: block;
+    width: 12px;
+    height: 12px;
+    padding: 0;
+    font-size: 0;
+    background: none;
+    border: 1px solid #8c8f9e;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+    &:before {
+      content: ''
+    }
+  }
+
+  .slick-active button {
+    background: #8c8f9e;
+  }
+}
+
+.slick-prev,
+.slick-next {
+  z-index: 1;
+}
+
+.slick-prev {
+  left: -18px;
+}
+.slick-next {
+  right: -18px;
+}

@@ -1,0 +1,122 @@
+.compare {
+  .bg {
+    img {
+      position: absolute;
+      z-index: -1;
+      margin-top: 100px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100%;
+      max-width: 1920px;
+    }
+  }
+
+  .subtitle {
+    max-width: 750px;
+    font-weight: 500;
+  }
+
+  .video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+  }
+
+  .slider-controls {
+    max-width: 300px;
+  }
+  
+  .slider {
+    text-align: center;
+    margin-top: 112px;
+    height: 360px;
+    @media (min-width: 2260px) {
+      margin-top: 180px;
+    }
+
+    .slick-list {
+       height: 360px;
+    }
+    .slick-slide {
+      padding: 0 5px;
+      outline: 0;
+      opacity: 0.7;
+
+      .header {
+        display: flex;
+        justify-content: flex-end;
+        margin-bottom: 11px;
+        font-size: 13px;
+        line-height: 16px;
+        color: #545769;
+      }
+
+      .wrapper {
+        position: relative;
+        display: flex;
+        height: 320px;
+        padding: 11px 14px;
+        border: 1px solid #2F303F;
+
+        .left,
+        .right {
+          width: 50%;
+
+          .top {
+            margin: 0;
+            font-size: 13px;
+            line-height: 16px;
+            color: #545769;
+            transition: all .2s linear;
+          }
+
+          img {
+            display: block;
+            height: 79px;
+            margin: 47px auto 28px;
+          }
+
+          .bottom {
+            max-width: 216px;
+            margin: 0 auto;
+            font-size: 17px;
+            line-height: 20px;
+            text-align: center;
+            color: #2F303F;
+            transition: all .2s linear;
+          }
+        }
+
+        .right {
+          p {
+            text-align: right;
+          }
+        }
+
+        .divider {
+          position: absolute;
+          top: -2px;
+          left: 50%;
+          transform: rotate(7deg);
+          width: 1px;
+          height: 101%;
+          background: #2F303F;
+        }
+      }
+    }
+
+    .slick-slide.slick-current {
+      opacity: 1;
+
+      .wrapper {
+        .left,
+        .right {
+          .bottom {
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}

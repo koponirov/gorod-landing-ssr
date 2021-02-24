@@ -1,0 +1,238 @@
+{
+
+
+  "main": "Main",
+  "lk": "Cabinet",
+  "reg": "Register",
+  "login": "Log In",
+
+  "windOfChange": "Wind\"ll change everything",
+  "startFromWETER": "The era of carbon-free energy<br> begins with <strong>WETER</strong>",
+  "couldGenerate": "The building, which can produce electricity<br> in the amount of <span class=\"percent\">200%</span> of its own needs",
+
+
+
+  "gorodTitle": "Transport <br> & Logistic system",
+  "gorodDescription": "The transport and logistics system of the city (TLSC) provides an innovative solution for building a communication system of the city (settlement), dividing them into several non-intersecting transport levels according to their functional purpose.",
+  "level1": "With natural landscape",
+  "level2": "Passenger and logistics",
+  "level3": "Communication",
+  "level4": "Transport  and logistics",
+  "invention": "Transport and logistics system of a city, being a promising innovation, is included into a list of “100 best innovations of Russia” and suggested to the album of innovations for use in city designing and building by the Russian Academy of Architecture and Construction Sciences (RAACS).",
+  "download": "Download submission file",
+
+
+
+  "video-label1": "Russian Federal Service for Intellectual Property. The list of 100 best innovations of Russia",
+  "video-label2": "The Russian Academy of Architecture and Construction Sciences. Album of  innovations (RAACS)",
+  "video-label3": "Russian Federal Service for Intellectual Property. The list of 300 promising innovations ",
+  "applicationForAnInvention": "The international application for the invention \"Transport and logistics system of the city\" was published by the World Intellectual Property Organization (International Bureau) in February 2018 under the number WO 2018/030915 A1.",
+  "patentApplications": "Patent applications",
+  "obtainedPatents": "Obtained patents",
+  "waiting": "An application for a patent for an invention has been submitted,<br> waiting for a supporting document.",
+  "pretext": "More than",
+
+
+
+
+  "streamTitle": "Online broadcasts",
+  "streamTitle1": "Layout Novosibirsk",
+  "streamAddress1": "Russia, Novosibirsk city, 630099, Deputatskaya 1 st. ",
+  "streamTitle2": "Model workshop Novosibirsk",
+  "streamAddress2": "Russia, Novosibirsk city, 630099, Deputatskaya 1 st. ",
+  "streamTitle3": "Layout Moscow",
+  "streamAddress3": "Russia, Moscow city, 121205,  Bolshoi boulevard, 42 st. 1 \"Skolkovo Innovation Center\"",
+  "streamTitle4": "Layout Vladivostok",
+  "streamAddress4": "Russia, Vladivostok city, 690091, st. Uborevycha 6A",
+  "streamUnderConstruction": "In process of connection",
+
+
+
+
+  "teamTitle": "Project team",
+  "about": "Details",
+
+
+
+  "teamFutureTitle":
+      "We are waiting for the team. To work at different stages of the project.",
+
+
+
+  "committeeTitle": "Supervisory committee",
+  "committeeAbout":
+      "Has full delivery information on the company\"s activities, the state of its assets, expenses and liabilities.",
+  "connect": "Contact",
+  "fillIn": "fill out an application",
+  "department": "Contract Department",
+  "defaultModalText":
+      "Contact us to become a member of the supervisory committee",
+
+
+
+  "authorTitle": "The exclusive right to use technology",
+
+  "authorOfTech": "Author of the technology",
+  "denisTiaglin": "Denis Tiaglin",
+
+  "patentText1": "A patent was issued for the invention of the Wind Power Station, which provides state protection for the result of intellectual activity.",
+  "patentText2": "Work is underway to register the rights to an invention in other countries.",
+
+
+
+
+
+  "howToBeCoowner": "How to become a co-owner",
+  "regToEnter": "Register on the website to enter your personal account",
+  "selectPackageAndPay": "Choose a block of shares and pay in any convenient way",
+  "finishVerification": "Complete the procedure for registration of rights to shares in VTB Registrar",
+  "coownerRegNow": "Become a co-owner",
+
+
+
+
+  "investNow": "By investing now you have the opportunity to:",
+
+  "profitForSmall": "Receive income with a small investment",
+  "bigDiscountNow": "Now you buy company shares with a significant discount. After the product enters the world market, the value of your shares will increase significantly.",
+
+  "changeWorld": "Participate in changing the world",
+  "youChangeFuture": "Together with the developers of innovative technology you are involved in creating a product of the future that will benefit many millions of people and the ecology of the planet.",
+
+  "franchasing": "Become a FRANCHISE of WETER",
+
+
+
+
+  "startupCheaper": "It is more profitable to invest during the Startup period",
+  "firstWETERStep": "On November 11, 2018, the first stage of development of JSC WETER started. At this stage, you can purchase shares at a DISCOUNT of 1:50 1:100 by 2022-2023",
+  "sharesAvailAfterReg": "It is possible to purchase shares by registering in your personal account",
+  "startupReg": "Invest",
+
+
+
+
+  "roadmapTitle": "Project Roadmap",
+
+  "period1": "First period",
+  "roadmapBlock1": "Engineering survey and modelling",
+
+  "period2": "Second period",
+  "roadmapBlock2": "Development of the optimal model and basic design documentation",
+
+  "period3": "Third period",
+  "roadmapBlock3": "Development of solutions for the optimal model and creation of basic design documentation",
+
+  "period4": "Period Four",
+  "roadmapBlock4": "Production of project documentation according to the customer’s request and its implementation in products by manufacturers",
+
+  "btnRoadmapDownload": "Roadmap",
+
+
+
+
+  "newsTitle": "Project news",
+  "newsArticles": "Articles",
+  "newsVideos": "Videos",
+  "newsSkolkovo": "We are residents of Skolkovo since 2020",
+
+
+  "futureTitle": "Become part of the future now",
+
+  "you": "You",
+  "we": "We",
+  "future": "Future",
+
+  "peopleMultiple": "people",
+  "peopleSingle": "people",
+  "alreadyBecome": "around the world have already become co-owners of the project",
+  "btnBeFuture": "Become part of the future",
+
+
+
+
+  "weAnswerByPhone": "We will answer your questions by phone.<br> Call hotline toll free in Russia. Daily 10:00 - 21:00 MSK",
+  "footerAddress": "Russia, Novosibirsk, zip 630 099, 1 Deputatskaya street, office 101",
+
+
+
+
+  "patents": "Patents",
+  "podacha": "Filing applications",
+  "at": "Austria",
+  "ba": "Bosnia and Herzegovina",
+  "be": "Belgium",
+  "bg": "Bulgaria",
+  "cy": "Cyprus",
+  "cz": "Czech Republic",
+  "gb": "great Britain",
+  "de": "Germany",
+  "dk": "Denmark",
+  "ee": "Estonia",
+  "es": "Spain",
+  "gr": "Greece",
+  "hu": "Hungary",
+  "hr": "Croatia",
+  "il": "Israel",
+  "it": "Italy",
+  "kh": "Cambodia",
+  "lu": "Luxembourg",
+  "lv": "Latvia",
+  "lt": "Lithuania",
+  "nl": "Netherlands",
+  "pl": "Poland",
+  "pt": "Portugal",
+  "se": "Sweden",
+  "si": "Slovenia",
+  "sk": "Slovakia",
+  "ro": "Romania",
+  "ma": "Morocco",
+  "mt": "Malta",
+  "fi": "Finland",
+  "fr": "France",
+  "tr": "Turkey",
+  "ru": "Russia",
+  "cn": "China",
+  "us": "USA",
+  "jp": "Japan",
+  "sa": "S. Arabia",
+  "in": "India",
+  "id": "Indonesia",
+  "my": "Malaysia",
+  "th": "Thailand",
+  "au": "Australia",
+  "nz": "N. Zealand",
+  "ca": "Canada",
+  "ph": "Philippines",
+  "mx": "Mexico",
+  "br": "Brazil",
+  "eg": "Egypt",
+  "om": "Oman",
+  "kr": "South.Korea",
+  "za": "South Africa",
+  "ae": "UAE",
+  "eu": "EU",
+  "az": "Azerbaijan",
+  "am": "Armenia",
+  "by": "Belarus",
+  "ge": "Georgia",
+  "kz": "Kazakhstan",
+  "kg": "Kyrgyzstan",
+  "tm": "Turkmenistan",
+  "tj": "Tajikistan",
+  "md": "Moldova",
+  "vn": "Vietnam",
+  "sg": "Singapore",
+  "mc": "Monaco",
+  "al": "Albania",
+  "me": "Montenegro",
+  "mk": "C. Macedonia",
+  "no": "Norway",
+  "ie": "Ireland",
+  "ch": "Switzerland",
+  "is": "Islanidia",
+  "rs": "Serbia",
+  "sm": "San Marino",
+  "li": "Liechtenstein",
+  "tn": "Tunisia"
+}

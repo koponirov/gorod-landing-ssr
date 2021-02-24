@@ -1,0 +1,190 @@
+{
+
+
+  "main": "Startseite",
+  "lk": "Cabinet",
+  "reg": "Registrierung",
+  "login": "Einloggen",
+
+  "windOfChange": "Der Wind wird alles ändern",
+  "startFromWETER": "Die Ära der CO2-freien Energie<br> beginnt mit <strong>WETER</strong>",
+  "couldGenerate": "Das Gebäude, das Strom<br> in Höhe von <span class=\"percent\">200%</span> seines Eigenbedarfs erzeugen kann",
+
+
+  "gorodTitle": "Das Transport- <br> und Logistiksystem ",
+  "gorodDescription": "Das Transport- und Logistiksystem der Stadt (TLSS) sieht die innovative Entscheidung des Baus des Systems der Kommunikationen der Stadt (der Siedlung) mit der Teilung sie auf einigen nicht gekreuzten Verkehrslinien nach der funktionalen Bestimmung vor.",
+  "level1": "Mit einer Naturlandschaft",
+  "level2": "Passagier-Logistik",
+  "level3": "Kommunikativ",
+  "level4": "Transport-Logistik",
+  "invention": "Das Transport- und Logistiksystem der Stadt wird als vielversprechende Erfindung in die Liste der \"100 besten Erfindungen Russlands\" eingeschlossen und von der Russischen Akademie der Architektur- und Bauwissenschaften (RAABW) in das Innovationsalbum für den Vorschlag zur Verwendung in der Stadtplanung aufgenommen.",
+  "download": "Datei zur Anmeldung herunterladen",
+
+
+
+  "video-label1": "Föderaler Dienst für intellektuelles Eigentum, Patente und Warenzeichen. Die Liste der 100 besten Erfindungen ",
+  "video-label2": "Russische Akademie der Architektur- und Bauwissenschaften. Das Innovationsalbum der RAABW",
+  "video-label3": "Föderaler Dienst für intellektuelles Eigentum, Patente und Warenzeichen. Die Liste der 300 vielversprechenden Erfindungen ",
+  "applicationForAnInvention": "Die internationale Anmeldung für die Erfindung \"Transport- und Logistiksystem der Stadt\" wurde von der Weltorganisation für geistiges Eigentum (Internationales Büro) im Februar 2018 unter der Nummer WO 2018/030915 A1 veröffentlicht.",
+  "patentApplications": "Einreichung einer Anmeldung",
+  "obtainedPatents": "Erhaltene Patente",
+  "waiting": "Eine Patentanmeldung für eine Erfindung wurde eingereicht,<br> Warten auf ein unterstützendes Dokument.",
+  "pretext": "Mehr als",
+
+
+  "authorTitle": "The exclusive right to use technology",
+
+  "authorOfTech": "Autor der Technologie",
+  "denisTiaglin": "Denis Tiaglin",
+
+  "patentText1": "A patent was issued for the invention of the Wind Power Station, which provides state protection for the result of intellectual activity.",
+  "patentText2": "Work is underway to register the rights to an invention in other countries.",
+
+  "legend1": "Symbol",
+  "legend2": "Patent pending",
+  "checkStatus": "Check patent status",
+
+
+
+
+  "newsTitle": "Neuigkeiten vom Projekt",
+  "newsArticles": "Articles",
+  "newsVideos": "Videos",
+  "newsSkolkovo": "Wir sind Einwohner von Skolkovo seit 2020",
+
+
+
+  "streamTitle": "Online-Sendungen",
+  "streamTitle1": "Layout Nowosibirsk",
+  "streamAddress1": "Russland, Nowosibirsk Stadt, 630099, st. Deputatskaya 1",
+  "streamTitle2": "Modellwerkstatt Nowosibirsk",
+  "streamAddress2": "Russland, Nowosibirsk Stadt, 630099, st. Deputatskaya 1",
+  "streamTitle3": "Layout Moskau",
+  "streamAddress3": "Russland, Moskau Stadt, 121205, st. Bolschoi Boulevard, 42 st.1 , \"Skolkovo Innovationszentrum\"",
+  "streamTitle4": "Layout Vladivostok",
+  "streamAddress4": "Russland, Stadt, Wladiwostok, 690091, st. Uborevycha 6A",
+  "streamUnderConstruction": "In Verbindung",
+
+
+
+  "teamTitle": "Das Projektteam",
+  "about": "mehr Details",
+
+
+
+  "teamFutureTitle":
+      "Wir warten auf das Team. In verschiedenen Phasen des Projekts arbeiten.",
+
+
+
+  "committeeTitle": "Überwachungsausschuss",
+  "committeeAbout":
+      "Verfügt über vollständige Lieferinformationen zu den Aktivitäten des Unternehmens, dem Zustand seiner Vermögenswerte, Ausgaben und Verbindlichkeiten",
+  "connect": "Kontakt",
+  "fillIn": "eine Bewerbung ausfüllen",
+  "department": "Vertragsabteilung",
+  "defaultModalText":
+      "Kontaktieren Sie uns, um Mitglied des Überwachungsausschusses zu werden",
+
+
+
+
+
+  "futureTitle": "Jetzt ein Teil der Zukunft werden",
+
+  "you": "Du",
+  "we": "Wir",
+  "future": "Zukunft",
+
+  "peopleMultiple": "Menschen",
+  "peopleSingle": "Menschen",
+  "alreadyBecome": "auf der Welt sind bereits Mitinhaber des Projekts geworden",
+  "btnBeFuture": "Ein Teil der Zukunft werden",
+
+
+
+
+
+  "weAnswerByPhone": "Wir werden Ihre Fragen beantworten.<br> Anruf in Russland ist kostenlos.10:00 - 21:00 Moskau.",
+  "footerAddress": "Russland, Nowosibirsk, 630099 ul. Deputatskaia, Raum 101",
+
+
+  "patents": "Patente",
+  "podacha": "Anträge einreichen",
+  "at": "österreich",
+  "ba": "Bosnien und Herzog",
+  "be": "Belgien",
+  "bg": "Bulgarien",
+  "cy": "Zypern",
+  "cz": "Tschechische Republik",
+  "gb": "GB",
+  "de": "Deutschland",
+  "dk": "Dänemark",
+  "ee": "Estland",
+  "es": "Spanien",
+  "gr": "Griechenland",
+  "hu": "Ungarn",
+  "hr": "Kroatien",
+  "il": "Israel",
+  "it": "Italien",
+  "kh": "Kambodscha",
+  "lu": "Luxemburg",
+  "lv": "Lettland",
+  "lt": "Litauen",
+  "nl": "Niederlande",
+  "pl": "Polen",
+  "pt": "Portugal",
+  "se": "Schweden",
+  "si": "Slowenien",
+  "sk": "Slowakei",
+  "ro": "Rumänien",
+  "ma": "Marokko",
+  "mt": "Malta",
+  "fi": "Finnland",
+  "fr": "Frankreich",
+  "tr": "Türkei",
+  "ru": "Russland",
+  "cn": "China",
+  "us": "USA",
+  "jp": "Japan",
+  "sa": "S. Arabien",
+  "in": "Indien",
+  "id": "Indonesien",
+  "my": "Malaysia",
+  "th": "Thailand",
+  "au": "Australien",
+  "nz": "N. Seeland",
+  "ca": "Kanada",
+  "ph": "Philippinen",
+  "mx": "Mexiko",
+  "br": "Brasilien",
+  "eg": "ägypten",
+  "om": "Oman",
+  "kr": "Süd.Korea",
+  "za": "Südafrika",
+  "ae": "Vereinigte Arabische Emirate",
+  "eu": "Europäische Union",
+  "az": "Aserbaidschan",
+  "am": "Armenien",
+  "by": "Weißrussland",
+  "ge": "Georgien",
+  "kz": "Kasachstan",
+  "kg": "Kirgisistan",
+  "tm": "Turkmenistan",
+  "tj": "Tadschikistan",
+  "md": "Moldawien",
+  "vn": "Vietnam",
+  "sg": "Singapur",
+  "mc": "Monaco",
+  "al": "Albanien",
+  "me": "Montenegro",
+  "mk": "C. Mazedonien",
+  "no": "Norwegen",
+  "ie": "Irland",
+  "ch": "Schweiz",
+  "is": "Is",
+  "rs": "Serbien",
+  "sm": "San Marino",
+  "li": "Liechtenstein",
+  "tn": "Tunesien"
+}

@@ -1,0 +1,236 @@
+{
+
+  "main": "La page d’accueil",
+  "lk": "Cabinet",
+  "reg": "S’enregistrer",
+  "login": "Entrer",
+
+  "windOfChange": "Le vent changera tout",
+  "startFromWETER": "Ère de l'énergie sans carbone<br> commence par <strong>WETER</strong>",
+  "couldGenerate": "La construction qui est capable de produire<br> de l'électricité dans le volume de <span class=\"percent\">200%</span> de ses propres besoins",
+
+
+  "gorodTitle": "Le système de transport <br> et de logistique",
+  "gorodDescription": "Le système de transport et de logistique de la ville (STLV) fournit une solution innovante pour la construction d'un système de communication de la ville (implantation) en les divisant en plusieurs niveaux de transport non traversables à des fins fonctionnelles.",
+  "level1": "Avec le paysage naturel",
+  "level2": "Passager et logistique",
+  "level3": "De communication",
+  "level4": "Transport et logistique",
+  "invention": "Le système de transport et de logistique de la ville en tant qu'invention prometteuse est inclus dans la liste des «100 meilleures inventions de Russie» et a été présenté par l'Académie russe de l'architecture et des sciences de la construction (ARASC) dans un album innovant pour une proposition d'utilisation dans l' architecture urbaine.",
+  "download": "Télécharger le fichier de dépôt",
+
+
+  "video-label1": "Service fédéral de la propriété intellectuelle de la Russie. Liste des 100 meilleures inventions",
+  "video-label2": "TAcadémie russe de l'architecture et des sciences de construction. Album innovant de ARASC",
+  "video-label3": "Service fédéral de la propriété intellectuelle de la Russie. Liste des inventions prometteuses",
+  "applicationForAnInvention": "La demande internationale d'invention \"Le système de transport et de logistique de la ville\" est publiée par l'Organisation Mondiale de la Propriété Industrielle (Bureau International) en février 2018 sous le numéro WO 2018/030915 A1.",
+  "patentApplications": "Dépôt des demandes",
+  "obtainedPatents": "Brevets reçus",
+  "waiting": "Une demande de brevet d'invention a été déposée, <br> en attente d'une pièce justificative.",
+  "pretext": "Plus de",
+
+
+  "streamTitle": "Diffusions en ligne",
+  "streamTitle1": "Mise en page novosibirsk",
+  "streamAddress1": "Russie, ville de Novossibirsk, 630099, st. Delegatskaya 1 ",
+  "streamTitle2": "Atelier modèle Novosibirsk",
+  "streamAddress2": "Russie, ville de Novossibirsk, 630099, st. Delegatskaya 1",
+  "streamTitle3": "Mise en page Moscou",
+  "streamAddress3": "Russie, ville de Moscou, 121205, boulevard Bolchoï, 42 st. 1 «Centre d'innovation de Skolkovo»",
+  "streamTitle4": "Mise en page Vladivostok",
+  "streamAddress4": "Russie, ville de Vladivostok, 690091, st. Uborevycha 6A",
+  "streamUnderConstruction": "En cours de connexion",
+
+
+  "teamTitle": "L'équipe projet",
+  "about": "plus de détails",
+
+
+  "teamFutureTitle":
+      "Nous attendons l'équipe. Travailler à différentes étapes du projet.",
+
+
+  "committeeTitle": "Comité de surveillance",
+  "committeeAbout":
+      "Possède des informations de livraison complètes sur les activités de l'entreprise, l'état de ses actifs, dépenses et passifs.",
+  "connect": "Contact",
+  "fillIn": "remplir une demande",
+  "defaultModalText":
+      "Contactez-nous pour devenir membre du comité de surveillance",
+
+
+
+  "authorTitle": "The exclusive right to use technology",
+
+  "authorOfTech": "Auteur de la technologie",
+  "denisTiaglin": "Denis Tiaglin",
+
+  "patentText1": "A patent was issued for the invention of the Wind Power Station, which provides state protection for the result of intellectual activity.",
+  "patentText2": "Work is underway to register the rights to an invention in other countries.",
+
+  "legend1": "Symbol",
+  "legend2": "Patent pending",
+  "checkStatus": "Check patent status",
+
+
+  "goalHeading": "L’objectif du projet",
+  "goal1": "À la fin de 2022-2023, convaincre les développeurs du monde entier de la nécessité de construire non seulement des constructions, mais également des constructions économes en énergie.",
+  "goal2": "L'augmentation des actifs de la compagnie est prévue par attribution des droits d'utilisation de l'invention «Centrale éolienne»",
+  "goal3": "La demande du produit assurera l'attractivité de la compagnie et sa valeur sera mesurée par des milliards",
+
+
+  "howToBeCoowner": "Comment devenir copropriétaire",
+  "regToEnter": "Inscrivez-vous sur le site pour vous connecter à votre compte personnel",
+  "selectPackageAndPay": "Choisissez un paquet d'actions et payez d'une manière qui vous convient",
+  "finishVerification": "Terminez la procédure d'enregistrement des droits d'actions dans VTB Registrar",
+  "coownerRegNow": "Devenir copropriétaire",
+
+
+
+  "investNow": "En investissant maintenant, vous obtenez une possibilité:",
+
+  "profitForSmall": "Obtenir un revenu par des petits investissements",
+  "bigDiscountNow": "Maintenant, vous achetez des actions de la compagnie avec une remise significative. Après l'entrée du produit sur le marché mondial, le prix de vos actions augmentera considérablement.",
+
+  "changeWorld": "Participer au changement du monde",
+  "youChangeFuture": "Avec les développeurs d'une technologie innovante, vous participez à la création d'un produit d'avenir qui profitera à des millions de personnes et à l'écologie de la planète.",
+
+  "franchasing": "Obtenir UNE FRANCHISE de la compagnie WETER",
+
+
+
+  "startupCheaper": "Investir plus rentable pendant la période de startup",
+  "firstWETERStep": "La première étape du développement de la compagnie SA WETER a été commencée le 11 novembre 2018. À cette étape, vous pouvez acheter des paquets d'actions avec une remise de 1: 50 1: 100 à 2022 -2023",
+  "sharesAvailAfterReg": "Pour acquérir des actions peuvent avoir après inscription dans votre compte",
+  "startupReg": "Investir",
+
+
+
+
+
+  "roadmapTitle": "Carte routière de développement du projet",
+
+  "period1": "Première période",
+  "roadmapBlock1": "Recherches d’ingénierie et modélisation",
+
+  "period2": "Deuxième période",
+  "roadmapBlock2": "Création du modèle optimal et l’élaboration de documents essentiels de projet",
+
+  "period3": "Troisième période",
+  "roadmapBlock3": "Décision sur le modèle optimal et la création de documents essentiels de projet",
+
+  "period4": "Quatrième période",
+  "roadmapBlock4": "Création de documents de projet à la commande du client et sa réalisation par les producteurs dans leurs produits",
+
+  "btnRoadmapDownload": "Carte routière",
+
+
+
+
+  "newsTitle": "Actualités du projet",
+  "newsArticles": "Articles",
+  "newsVideos": "Videos",
+  "newsSkolkovo": "Nous sommes résidents de Skolkovo depuis 2020",
+
+
+
+
+  "futureTitle": "Devenir une partie de l'avenir maintenant",
+
+  "you": "Tu",
+  "we": "Nous",
+  "future": "Avenir",
+
+  "peopleMultiple": "personnes",
+  "peopleSingle": "personnes",
+  "alreadyBecome": "dans le monde entier ont déjà été copropriétaires du projet",
+  "btnBeFuture": "Devenir une partie de l'avenir",
+
+
+
+
+  "weAnswerByPhone": "Nous répondrons à Vos questions. <br> L'appel sur la Fédération de Russie est gratuit.",
+  "footerAddress": "Russie, Novosibirsk, 630099 1 rue Depoutatskaya, bureau 101",
+
+
+
+
+  "patents": "Les brevets",
+  "podacha": "Dépôt des demandes",
+  "at": "Autriche",
+  "ba": "Bosnie-Herzégovine",
+  "be": "Belgique",
+  "bg": "Bulgarie",
+  "cy": "Chypre",
+  "cz": "République tchèque",
+  "gb": "Royaume-Uni",
+  "de": "Allemagne",
+  "dk": "Danemark",
+  "ee": "Estonie",
+  "es": "Espagne",
+  "gr": "Grèce",
+  "hu": "Hongrie",
+  "hr": "Croatie",
+  "il": "Israël",
+  "it": "Italie",
+  "kh": "Cambodge",
+  "lu": "Luxembourg",
+  "lv": "Lettonie",
+  "lt": "Lituanie",
+  "nl": "pays-bas",
+  "pl": "Pologne",
+  "pt": "Portugal",
+  "se": "Suède",
+  "si": "Slovénie",
+  "sk": "Slovaquie",
+  "ro": "Roumanie",
+  "ma": "Maroc",
+  "mt": "Malte",
+  "fi": "Finlande",
+  "fr": "France",
+  "tr": "Turquie",
+  "ru": "Russie",
+  "cn": "Chine",
+  "us": "États-Unis",
+  "jp": "Japon",
+  "sa": "S. Arabia",
+  "in": "Inde",
+  "id": "Indonésie",
+  "my": "Malaisie",
+  "th": "Thaïlande",
+  "au": "Australie",
+  "nz": "N. Zélande",
+  "ca": "Canada",
+  "ph": "Philippines",
+  "mx": "Mexique",
+  "br": "Brésil",
+  "eg": "Égypte",
+  "om": "Oman",
+  "kr": "Sud.Corée",
+  "za": "Afrique du Sud",
+  "ae": "EAU",
+  "eu": "Union européenne",
+  "az": "Azerbaïdjan",
+  "am": "Arménie",
+  "by": "Biélorussie",
+  "ge": "Géorgie",
+  "kz": "Kazakhstan",
+  "kg": "Kirghizistan",
+  "tm": "Turkménistan",
+  "tj": "Tadjikistan",
+  "md": "Moldavie",
+  "vn": "Vietnam",
+  "sg": "Singapour",
+  "mc": "Monaco",
+  "al": "Albanie",
+  "me": "Monténégro",
+  "mk": "C. Macédoine",
+  "no": "Norvège",
+  "ie": "Irlande",
+  "ch": "Suisse",
+  "is": "Islanidia",
+  "rs": "Serbie",
+  "sm": "Saint-marin",
+  "li": "Liechtenstein",
+  "tn": "Tunisie"
+}

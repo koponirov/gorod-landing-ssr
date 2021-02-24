@@ -1,0 +1,331 @@
+{ "items": [
+  {
+    "name": "Du kannst hier sein",
+    "img": "plus",
+    "te": "https://t.me/ENERGY2020_SUPPORT",
+    "default": "true"
+  },
+  {
+    "name": "Alexander Sukonkin",
+    "position": "Investor",
+    "img": "AlexanderSukonin",
+    "inst": "https://www.instagram.com/aleks.sukonkin",
+    "country": "ru"
+  },
+  {
+    "name": "Alex Bendecido",
+    "position": "Investor",
+    "img": "AlexBendecido",
+    "inst": "https://www.instagram.com/alexbendecidoinvest/?r=nametag",
+    "country": "es"
+  },
+  {
+    "name": "Anton Sharygin",
+    "position": "Investor",
+    "img": "AntonSharygin",
+    "vk": "https://vk.com/id138326778",
+    "country": "ru"
+  },
+  {
+    "name": "Vitaly Shagalov",
+    "position": "Investor",
+    "img": "VitalyShagalov",
+    "vk": "https://vk.com/startupbrokershagalov",
+    "country": "ru"
+  },
+  {
+    "name": "Artem Morgunov",
+    "position": "Investor",
+    "img": "ArtemMorgunov",
+    "vk": "https://vk.com/thceo",
+    "country": "ru"
+  },
+  {
+    "name": "Artem Leonov",
+    "position": "Стартап брокер",
+    "img": "ArtemLeonov",
+    "inst": "https://instagram.com/leonov_artem01 ",
+    "country": "ru"
+  },
+  {
+    "name": "Maxim Ovtin",
+    "position": "Стартап брокер",
+    "img": "MaximOvtin",
+    "inst": "https://www.instagram.com/ovtin_1",
+    "country": "ru"
+  },
+  {
+    "name": "Dionisy Kochkonyan",
+    "position": "Investor",
+    "img": "DionisyKochkonyan",
+    "inst": "https://www.instagram.com/p/CHx_vrCgPCS/?igshid=147qpv1s267fx",
+    "country": "ru"
+  },
+  {
+    "name": "Mattia Magurno",
+    "position": "Investor",
+    "img": "MattiaMagurno",
+    "inst": "https://www.instagram.com/mattx_1/",
+    "country": "it"
+  },
+  {
+    "name": "Sergey Andreev",
+    "position": "Investor",
+    "img": "SergeyAndreev",
+    "fb": "https://www.facebook.com/profile.php?id=100023495950049",
+    "country": "ru"
+  },
+  {
+    "name": "Alexander Protopopov",
+    "position": "Investor",
+    "img": "AlexanderProtopopov",
+    "vk": "https://vk.com/protopopovalexsandr",
+    "country": "ru"
+  },
+  {
+    "name": "Jonghyun Na",
+    "position": "",
+    "img": "JonghyunNa",
+    "inst": "https://www.instagram.com/masterna2021/",
+    "country": "kr"
+  },
+  {
+    "name": "Nariman Swarovski",
+    "position": "Investor",
+    "img": "NarimanSwarovski",
+    "inst": "https://instagram.com/swarovskiy_n?igshid=1wedowfh6mnne"
+  },
+  {
+    "name": "Yuri Butakov",
+    "position": "Investor",
+    "img": "YuriButakov",
+    "vk": "https://vk.com/yuributakoff",
+    "country": "ru"
+  },
+  {
+    "name": "Maxim Chernyev",
+    "position": "Investor",
+    "img": "MaximChernyev",
+    "inst": "https://www.instagram.com/maxim_chernyev/",
+    "country": "ru"
+  },
+  {
+    "name": "Muhammad Syukron",
+    "img": "MuhammadSyukron",
+    "inst": "https://www.instagram.com/royclubindonesia/",
+    "country": "id"
+  },
+  {
+    "name": "Vitaly Budantsev",
+    "position": "Investor",
+    "img": "VitalyBudantsev",
+    "inst": "https://instagram.com/buddancev?r=nametag",
+    "country": "ru"
+  },
+  {
+    "name": "Artem Shagimardanov",
+    "position": "Investor",
+    "img": "ArtemShagimardanov",
+    "inst": "https://www.instagram.com/p/CFckHChomXI/?igshid=1o7nl1azpnu7e",
+    "country": "ru"
+  },
+  {
+    "name": "Andrix Gnakouri",
+    "position": "",
+    "img": "AndrixGnakouri",
+    "fb": "https://www.facebook.com/andrix.gnakouri",
+    "country": "za"
+  },
+  {
+    "name": "Marina Makurina",
+    "position": "Investor",
+    "img": "MarinaMakurina",
+    "vk": "https://vk.com/id394184972",
+    "country": "ru"
+  },
+  {
+    "name": "Vladislav Makhrov",
+    "position": "Investor",
+    "img": "VladislavMakhrov",
+    "inst": "https://www.instagram.com/onemoscow_club/",
+    "country": "ru"
+  },
+  {
+    "name": "Mukesh Pareek",
+    "position": "",
+    "img": "MukeshPareek",
+    "fb": "https://www.facebook.com/mukesh.pareek.96930013",
+    "country": "in"
+  },
+  {
+    "name": "Lyana Ackerman",
+    "position": "Investor",
+    "img": "LyanaAckerman",
+    "inst": "https://www.instagram.com/p/CDxzGfVAgYc/?igshid=je5casunbah4",
+    "country": "ru"
+  },
+  {
+    "name": "Evgeny Pachghanov",
+    "position": "Investor",
+    "img": "EvgenyPachghanov",
+    "inst": "https://www.instagram.com/pachghanov_/",
+    "country": "ru"
+  },
+  {
+    "name": "Stanislav Gontaruk",
+    "position": "Investor",
+    "img": "StanislavGontaruk",
+    "inst": "https://www.instagram.com/stanwood_official/",
+    "country": "ru"
+  },
+  {
+    "name": "Anuoluwapo Afoluwashe",
+    "position": "Investor",
+    "img": "AnuoluwapoAfoluwashe",
+    "inst": "https://www.instagram.com/p/CAsoLVSgkQF2R06Omm3gHqQ7-61-ykz2LKykLo0/?igshid=q9rm3b7hzlz4"
+  },
+  {
+    "name": "Henrik Christiansen",
+    "position": "Investor",
+    "img": "HenrikChristiansen",
+    "inst": "https://instagram.com/hc.halager?igshid=131wq1xj8awn5",
+    "country": "ae"
+  },
+  {
+    "name": "Alexander Deryabin",
+    "position": "Investor",
+    "img": "AlexanderDeryabin",
+    "inst": "https://www.instagram.com/p/CJYl83ps6zd/?igshid=1hts68ih276nj",
+    "country": "ru"
+  },
+  {
+    "name": "Vashanthan Kalyani",
+    "position": "",
+    "img": "VashanthanKalyani",
+    "tw": "https://twitter.com/KVashanthan?s=08",
+    "country": "in"
+  },
+  {
+    "name": "Elena Kondratova",
+    "position": "Investor",
+    "img": "ElenaKondratova",
+    "inst": "https://www.instagram.com/elenamoda2013?r=nametag",
+    "country": "ru"
+  },
+  {
+    "name": "Faizan Khan",
+    "position": "",
+    "img": "FaizanKhan",
+    "fb": "https://www.facebook.com/faizan.faizankhan.3194524",
+    "country": "in"
+  },
+  {
+    "name": "Oleg Shukhrov",
+    "position": "Investor",
+    "img": "OlegShukhrov",
+    "vk": "https://vk.com/id157914915",
+    "country": "ru"
+  },
+  {
+    "name": "Elena Fugenfirova",
+    "position": "Investor",
+    "img": "ElenaFugenfirova",
+    "inst": "https://instagram.com/elena_fugenfirova?igshid=19o3j3gn8o5ft",
+    "country": "ru"
+  },
+  {
+    "name": "Alexander Arestov",
+    "position": "Investor",
+    "img": "AlexanderArestov",
+    "vk": "https://vk.com/trendgoodabk",
+    "country": "ru"
+  },
+  {
+    "name": "Rishabh Soni",
+    "position": "",
+    "img": "RishabhSoni",
+    "fb": "https://www.facebook.com/profile.php?id=100024826213731",
+    "country": "in"
+  },
+  {
+    "name": " Denis Chernenko",
+    "position": "Investor",
+    "img": "DenisChernenko",
+    "inst": "https://www.instagram.com/denis_chernenko85/",
+    "country": "ru"
+  },
+  {
+    "name": "Rostislav Kochkin",
+    "position": "Investor",
+    "img": "RostislavKochkin",
+    "fb": "https://www.facebook.com/rkochkin",
+    "country": "ru"
+  },
+  {
+    "name": "Vasily Gusakov",
+    "position": "Investor",
+    "img": "VasilyGusakov",
+    "inst": "https://www.instagram.com/vasiliy_gusakov/",
+    "country": "ru"
+  },
+  {
+    "name": "Maria Gizhberg",
+    "position": "Investor",
+    "img": "MariaGizhberg",
+    "inst": "https://instagram.com/gizhberg?igshid=172dzx3mck6lm",
+    "country": "ru"
+  },
+  {
+    "name": "Madiyar Mirzakeev",
+    "position": "",
+    "img": "MadiyarMirzakeev",
+    "inst": "https://www.instagram.com/mirzakeev_/",
+    "country": "kz"
+  },
+  {
+    "name": "Zharkova Natalia",
+    "position": "",
+    "img": "ZharkovaNatalia",
+    "vk": "https://vk.com/id73455358",
+    "country": "ru"
+  },
+  {
+    "name": "Vorname Familienname",
+    "position": "",
+    "img": "default",
+    "tel": "",
+    "fb": "",
+    "tw": "",
+    "te": "https://t.me/ENERGY2020_SUPPORT",
+    "inst": "",
+    "wa": "",
+    "crop_description": "",
+    "default": "true"
+  },
+  {
+    "name": "Vorname Familienname",
+    "position": "",
+    "img": "default",
+    "tel": "",
+    "fb": "",
+    "tw": "",
+    "te": "https://t.me/ENERGY2020_SUPPORT",
+    "inst": "",
+    "wa": "",
+    "crop_description": "",
+    "default": "true"
+  },
+  {
+    "name": "Vorname Familienname",
+    "position": "",
+    "img": "default",
+    "tel": "",
+    "fb": "",
+    "tw": "",
+    "te": "https://t.me/ENERGY2020_SUPPORT",
+    "inst": "",
+    "wa": "",
+    "crop_description": "",
+    "default": "true"
+  }
+]}

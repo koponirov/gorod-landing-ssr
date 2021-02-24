@@ -1,0 +1,128 @@
+.future {  
+  overflow: hidden;
+  .title {
+    max-width: 600px;
+    margin: 0 auto 480px;
+  }
+
+  .btn-grd {
+    animation-duration: 3.5s;
+  }
+
+  .parts {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+  }
+
+  .part {
+    position: relative;
+    flex: 0 0 33%;
+
+    .dot {
+      position: absolute;
+      bottom: 260px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 28px;
+      height: 28px;
+      background: #347dfe;
+      border-radius: 50%;
+      box-shadow: 0 0 15px -5px #347dfe;
+    }
+
+    .line {
+      position: absolute;
+      bottom: 50px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 1px;
+      height: 189px;
+      background: #545769;
+    }
+
+    p {
+      margin: 0;
+      font-size: 29px;
+      font-weight: 800;
+      line-height: 41px;
+      text-align: center;
+    }
+
+    img {
+      position: absolute;
+      left: 50%;
+      bottom: 120px;
+      transform: translateX(-50%);
+      pointer-events: none;
+      user-select: none;
+    }
+
+    .building {
+      img {
+        z-index: -1;
+        
+      } 
+    }
+
+    &:nth-child(2) {
+      .line {
+        height: 65px;
+      }
+    }
+
+    &:nth-child(3) {
+      .line {
+        height: 37px;
+      }
+      img {
+        max-width: none;
+        left: 42%;
+        bottom: -60px;
+      }
+    }
+  }
+
+  .world {
+    padding-top: 250px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    .future-world {
+      position: absolute;
+      width: 100%;
+      left: 0;
+      top: 0;
+      z-index: -1;
+    }
+
+    .title {
+      margin: 0 auto;
+    }
+
+    .subtitle {
+      margin: 10px auto 48px;
+      width: 100%;
+      font-family: 'Inter';
+      font-weight: 800;
+      font-size: 38px;
+      line-height: 41px;
+      
+      @media (max-width: 540px) {
+        font-size: 25px;
+        line-height: 1.2;
+        text-align: center;
+      }
+    }
+
+    .btn-blue {
+      max-width: 360px;
+      margin: auto;
+      margin-bottom: 50px;
+    }
+  }
+}

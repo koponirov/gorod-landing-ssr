@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "name": "Denis Tiaglin",
+      "position": "Author and developer",
+      "avatar": "/files/team-img/DenisTiaglin/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://www.instagram.com/denistiaglin.com_/",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Maksim Pervoy",
+      "position": "Startup manager",
+      "avatar": "/files/team-img/MaksimPervoy/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://www.instagram.com/max_pervoy/",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Ruslan Balash",
+      "position": "Architect",
+      "avatar": "/files/team-img/RuslanBalash/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://www.instagram.com/perfectura_design/",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Sergey Sidorov",
+      "position": "Interface prototyping",
+      "avatar": "/files/team-img/SergeySidorov/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://www.instagram.com/sidorov_s_n_/",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Andrey Khomenko",
+      "position": "Model designer",
+      "avatar": "/files/team-img/AndreyKhomenko/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://www.instagram.com/andre_svitsa/",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Yuri Zhilavets",
+      "position": "Model designer",
+      "avatar": "/files/team-img/YuriZhilavets/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://www.instagram.com/zhilavets2018/",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Georgy Kumaneev",
+      "position": "Startup broker",
+      "avatar": "/files/team-img/GeorgyKumaneev/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://instagram.com/startup_broker?igshid=12mkiii8u748j",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Yulianna Makarova",
+      "position": "Call-center",
+      "avatar": "/files/team-img/YuliannaMakarova/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://instagram.com/ulianna.makarova?r=nametag",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Ekaterina Kozhaeva",
+      "position": "Call-center",
+      "avatar": "/files/team-img/EkaterinaKozhaeva/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://instagram.com/kat_rin.27?igshid=16p67lrn7ghce",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Igor Makarov",
+      "position": "Assembler",
+      "avatar": "/files/team-img/IgorMakarov/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "https://www.facebook.com/profile.php?id=100006201195905",
+        "tw": "",
+        "te": "",
+        "inst": "",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Mikhail Koponirov",
+      "position": "Frontend developer",
+      "avatar": "/files/team-img/MikhailKoponirov/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "https://www.facebook.com/people/Michael-Koponirov/100010910190950",
+        "tw": "",
+        "te": "",
+        "inst": "",
+        "vk": ""
+      }
+    },
+    {
+      "name": "Dmitry Krasnogor",
+      "position": "Business development director",
+      "avatar": "/files/team-img/DmitryKrasnogor/avatar.jpg",
+      "tel": "",
+      "portfolio": {
+        "images": [],
+        "text": ""
+      },
+      "crop_description": "",
+      "description": "",
+      "contacts": {
+        "tel": "",
+        "fb": "",
+        "tw": "",
+        "te": "",
+        "inst": "https://instagram.com/dmitry_krasnogor_official?igshid=135fx5pz2ksdn",
+        "vk": ""
+      }
+    }
+  ]
+}

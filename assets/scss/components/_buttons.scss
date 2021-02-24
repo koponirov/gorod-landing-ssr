@@ -1,0 +1,47 @@
+.btn-blue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 263px;
+  height: 43px;
+  padding: 0 10px;
+  border-radius: 5px;
+  background: #347dfe;
+  box-shadow: 0 0 7px 0 rgba(52, 125, 254, 0.5);
+  color: #fff;
+  font-size: 17px;
+  line-height: 38px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  position: relative;
+  &.btn-grd {
+    background: url(../img/future/btn-grd.svg) no-repeat 400px 0,
+                #347dfe;
+    animation: background-move 2s infinite ease;
+  }
+}
+
+@keyframes background-move {
+  0% {
+    background-position: -145px 0;
+  }
+  50% {
+    background-position: 200% 0;
+  }
+  51% {
+    background-position: 200% 100px;
+  }
+  99% {
+    background-position: -145% 100px;
+  }
+  100% {
+    background-position: -145px 0;
+  }
+}
+
+.btn-blue:hover {
+  box-shadow: 0 10px 19px 0 rgba(52, 125, 254, 0.7);
+  background-color: #72a5ff;
+}
